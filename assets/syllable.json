@@ -1,6 +1,9 @@
+[ 
+{  
     "SYLLABLE": "what·so·eer"
-  },
-  {
+
+ },
+{
     "SYLLABLE": "what·so·ev·er"
   },
   {
@@ -9,9 +12,9 @@
   {
     "SYLLABLE": "what·ten"
   },
-  {
-    "SYLLABLE": "whata"
-  },
+ 
+
+
   {
     "SYLLABLE": "whatabouts"
   },
@@ -35,4 +38,5 @@
   },
   {
     "SYLLABLE": "whauve"
-  },
+  }
+]
